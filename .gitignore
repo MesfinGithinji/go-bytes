@@ -1,12 +1,20 @@
 # Go build artifacts
 *.exe
-*.out
+*.exe~
+*.dll
+*.so
+*.dylib
 *.test
+*.out
 
-# Dependency directories (if you use vendoring)
-vendor/
-
-# IDE/editor configs
+# IDEs and editors
 .vscode/
 .idea/
 *.swp
+
+# Dependency directories
+vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
