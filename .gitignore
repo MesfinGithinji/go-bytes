@@ -1,0 +1,12 @@
+# Go build artifacts
+*.exe
+*.out
+*.test
+
+# Dependency directories (if you use vendoring)
+vendor/
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
