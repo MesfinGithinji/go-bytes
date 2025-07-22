@@ -1,7 +1,7 @@
 package main
 
 /*
- Use variables and constants to:
+ Use variables to:
 
     Take two numbers (you can hardcode them).
 
